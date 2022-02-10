@@ -33,25 +33,23 @@ async def _human_time_duration(seconds):
 @Client.on_message(command("start") & filters.private & ~filters.edited)
 async def start_(client: Client, message: Message):
     await message.reply_photo(
-        photo=f"https://te.legra.ph/file/c6e1041c6c9a12913f57a.png",
+        photo=f"https://telegra.ph/file/9ab995651c8c610010fcf.jpg",
         caption=f"""**━━━━━━━━━━━━━━━━━━━━━━━━
-💥 ʜᴇʟʟᴏ, ɪ ᴀᴍ sᴜᴘᴇʀ ғᴀsᴛ ᴠᴄ ᴘʟᴀʏᴇʀ
+🔱 ʜᴇʟʟᴏ, ɪ ᴀᴍ sᴜᴘᴇʀ ғᴀsᴛ ᴠᴄ ᴘʟᴀʏᴇʀ
 ʙᴏᴛ ғᴏʀ ᴛᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴘs ...
 ┏━━━━━━━━━━━━━━━━━┓
-┣★ ᴄʀᴇᴀᴛᴏʀ : [ᴀᴅɪᴛʏᴀ ʜᴀʟᴅᴇʀ](https://t.me/adityahalder)
-┣★ ᴜᴘᴅᴀᴛᴇs : [ᴀᴅɪᴛʏᴀ sᴇʀᴠᴇʀ](https://t.me/adityaserver)
-┣★ sᴜᴘᴘᴏʀᴛ : [ᴀᴅɪᴛʏᴀ ᴅɪsᴄᴜs](https://t.me/adityadiscus)
-┣★ sᴏᴜʀᴄᴇ › : [ɢᴇᴛ ʀᴇᴘᴏ ʜᴇʀᴇ](https://github.com/mradityaxd/adityaplayer)
+┣❥︎ ᴄʀᴇᴀᴛᴏʀ : [ʟᴜᴄɪғᴇʀ](https://t.me/@LUCYY_xZz)
+┣❥︎ sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ : [ᴊᴏɪɴ](https://t.me/luxclub_sergio)
 ┗━━━━━━━━━━━━━━━━━┛
 
-💞 ɪғ ʏᴏᴜ ʜᴀᴠᴇ ᴀɴʏ ǫᴜᴇsᴛɪᴏɴs ᴛʜᴇɴ
-ᴅᴍ ᴛᴏ ᴍʏ [ʟᴇɢᴇɴᴅ ᴏᴡɴᴇʀ](https://t.me/adityahalder) ...
+🩸 ᴅᴏɴᴛ ᴅᴍ ᴍᴇ ᴡɪᴛʜᴏᴜᴛ ᴘᴇʀᴍɪssɪᴏɴ
+ᴅᴍ ᴛᴏ ᴍʏ [ᴘᴀᴘᴀ](https://t.me/@LUCYY_xZz)
 ━━━━━━━━━━━━━━━━━━━━━━━━**""",
     reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        "➕ ❰ ᴊᴏɪɴ ʜᴇʀᴇ ғᴏʀ ᴜᴘᴅᴀᴛᴇs ❱ ➕", url=f"https://t.me/adityaserver")
+                        "🔱 ᴊᴏɪɴ ᴏᴜʀ sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ 🔱", url=f"https://t.me/luxclub_sergio")
                 ]
                 
            ]
@@ -62,13 +60,13 @@ async def start_(client: Client, message: Message):
 @Client.on_message(commandpro(["/start", "/alive", "aditya"]) & filters.group & ~filters.edited)
 async def start(client: Client, message: Message):
     await message.reply_photo(
-        photo=f"https://te.legra.ph/file/c6e1041c6c9a12913f57a.png",
+        photo=f"https://telegra.ph/file/9ab995651c8c610010fcf.jpg",
         caption=f"""""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        "💥 ᴊᴏɪɴ ʜᴇʀᴇ ᴀɴᴅ sᴜᴘᴘᴏʀᴛ 💞", url=f"https://t.me/adityadiscus")
+                        "ᴊᴏɪɴ ɴᴏᴡ", url=f"https://t.me/luxclub_sergio")
                 ]
             ]
         ),
@@ -78,13 +76,13 @@ async def start(client: Client, message: Message):
 @Client.on_message(commandpro(["repo", "#repo", "@repo", "/repo", "source"]) & filters.group & ~filters.edited)
 async def help(client: Client, message: Message):
     await message.reply_photo(
-        photo=f"https://te.legra.ph/file/c6e1041c6c9a12913f57a.png",
-        caption=f"""""",
+        photo=f"https://telegra.ph/file/9ab995651c8c610010fcf.jpg",
+        caption=f"""𝐏𝐑𝐈𝐕𝐀𝐓𝐄 𝐑𝐄𝐌𝐏𝐎""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        "💥 ᴄʟɪᴄᴋ ᴍᴇ ᴛᴏ ɢᴇᴛ ʀᴇᴘᴏ 💞", url=f"https://github.com/mradityaxd/adityaplayer")
+                        "ᴘʀɪᴠᴀᴛᴇ ʀᴇᴍᴘᴏ", url=f"ɴᴏᴛʜɪɴɢ ʜᴇʀᴇ")
                 ]
             ]
         ),
