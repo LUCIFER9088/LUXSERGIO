@@ -38,12 +38,12 @@ async def start_(client: Client, message: Message):
 🔱 ʜᴇʟʟᴏ, ɪ ᴀᴍ sᴜᴘᴇʀ ғᴀsᴛ ᴠᴄ ᴘʟᴀʏᴇʀ
 ʙᴏᴛ ғᴏʀ ᴛᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴘs ...
 ┏━━━━━━━━━━━━━━━━━┓
-┣❥︎ ᴄʀᴇᴀᴛᴏʀ : [ʟᴜᴄɪғᴇʀ](https://t.me/@LUCYY_xZz)
+┣❥︎ ᴄʀᴇᴀᴛᴏʀ : [ʟᴜᴄɪғᴇʀ](https://t.me/LUCYY_xZz)
 ┣❥︎ sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ : [ᴊᴏɪɴ](https://t.me/luxclub_sergio)
 ┗━━━━━━━━━━━━━━━━━┛
 
 🩸 ᴅᴏɴᴛ ᴅᴍ ᴍᴇ ᴡɪᴛʜᴏᴜᴛ ᴘᴇʀᴍɪssɪᴏɴ
-ᴅᴍ ᴛᴏ ᴍʏ [ᴘᴀᴘᴀ](https://t.me/@LUCYY_xZz)
+ᴅᴍ ᴛᴏ ᴍʏ [ᴘᴀᴘᴀ](https://t.me/LUCYY_xZz)
 ━━━━━━━━━━━━━━━━━━━━━━━━**""",
     reply_markup=InlineKeyboardMarkup(
             [
